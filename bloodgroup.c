@@ -5,12 +5,8 @@ void main()
   int i;
   do
   {
-<<<<<<< HEAD
-    printf("What is your blood type? ");
-=======
     printf("Where is my name? ");
 	printf("Who am I? ");
->>>>>>> 774fb6f746afd7a4151f86963c6ef8733fdc35df
     scanf("%s", Name);
     do
     {
